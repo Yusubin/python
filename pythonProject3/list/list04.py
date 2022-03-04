@@ -62,7 +62,7 @@ while True:
                 count1 = count1 + 1
                 print()
                 print(count, ":폭격성공", ", 성공위치: ", i)
-                m_list[i] = "_"
+                u_list[i] = "_"
 
 
 print(u_list)

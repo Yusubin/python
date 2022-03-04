@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="efa472d7-6112-48ce-86e4-883ed1b101b3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/pythonProject2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/function/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list/list01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list/list02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list/list03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list/list04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list/list05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list/list06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list/set0.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list/tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string/str01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string/str02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string/str03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string/str04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject4/note.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject4/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject4/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="25tnm9QDEtUBdVsDkYE7XTVGglE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="efa472d7-6112-48ce-86e4-883ed1b101b3" name="Changes" comment="" />
+      <created>1646355406467</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646355406467</updated>
+    </task>
+    <servers />
+  </component>
+</project>
