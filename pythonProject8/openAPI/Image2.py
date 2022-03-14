@@ -24,9 +24,9 @@ def multi_tag(image_url):
 
     return label_kr
 if __name__ == '__main__':
-    img_list = ['https://w.namu.la/s/5d5ec65c290284aa95363cc3b26b78dfb14d30739dd299c6728c016421eed661245d23776d22eb478b2bca6445c862bf74262298d4240ec3d5c6c27cb0ae3d47e58c0f61e2578f154acef752d5abfe62358659674438039be10fad1d48c6513a',
-                'https://cdn.mindgil.com/news/photo/202102/70718_6733_1648.jpg',
-                'https://images.chosun.com/resizer/CYshmV-b5T3_NfHX6Yt5JVwRsu8=/616x0/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4K4JOARBMZD5HDYI47WK72W7VQ.jpg']
+    img_list = ['https://search.pstatic.net/common/?src=http%3A%2F%2Fshop1.phinf.naver.net%2F20210129_219%2F1611885704670Vh774_JPEG%2F155276_1.jpg&type=sc960_832',
+        'https://contents.lotteon.com/itemimage/LO/14/30/64/30/56/_1/43/06/43/05/7/LO1430643056_1430643057_1.jpg/dims/optimize/dims/resizemc/400x400',
+        'http://openimage.interpark.com/goods_image_big/7/2/7/0/7068487270e_l.jpg','http://openimage.interpark.com/goods_image_big/1/0/7/1/7455671071_l.jpg']
     result_list = []
     for img in img_list:
         label_result = multi_tag(img)
@@ -57,4 +57,5 @@ if __name__ == '__main__':
     else:
         tour='제주도'
     data='당신에게 '+tour+"을 추천합니다~~!"
+
     messagebox.showinfo('추천',data)
